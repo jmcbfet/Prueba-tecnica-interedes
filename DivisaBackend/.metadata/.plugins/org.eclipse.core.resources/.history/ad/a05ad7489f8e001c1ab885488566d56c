@@ -1,0 +1,5 @@
+spring.datasource.url="jdbc:mysql://localhost:3306/prueba_tecnica"
+spring.datasource.platform=mysql
+spring.datasource.username=root
+
+spring.datasource.driver.class=com.mysql.cj.jdbc.Driver

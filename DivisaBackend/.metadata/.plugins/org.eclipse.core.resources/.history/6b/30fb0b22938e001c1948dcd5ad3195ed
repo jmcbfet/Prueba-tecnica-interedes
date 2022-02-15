@@ -1,0 +1,7 @@
+package com.example.demo.dao;
+
+public interface HistorialDivisaDAO {
+
+	public List<HistorialDivisa> listar();
+	
+}
